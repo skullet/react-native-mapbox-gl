@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source_files	= "ios/RCTMGL/**/*.{h,m}"
 
   s.dependency 'React'
-  s.dependency 'Mapbox-iOS-SDK', '~> 3.6.8'
+  s.dependency 'Mapbox-iOS-SDK', '~> 3.7.8'
 end
